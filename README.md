@@ -5,7 +5,7 @@
   SRN: PES1UG24CS703  
 
 - Name: Sujeet V Bire  
-  SRN: PES2UG24CS716  
+  SRN: PES1UG24CS716  
 
 Fork Repository:  
 https://github.com/8figalltimepro/OS-Jackfruit-703-716 
